@@ -13,9 +13,10 @@ Building scalable products from idea → production
 
 <a href="https://linkedin.com/in/atik-rangnekar" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
 <a href="https://leetcode.com/atikrangnekar" target="_blank" rel="noopener noreferrer">LeetCode</a> •
-<a href="mailto:atikrangnekar28@gmail.com">Email</a>
+atikrangnekar28@gmail.com
 
 </p>
+
 
 ---
 
@@ -59,13 +60,12 @@ I’m a developer focused on building modern web and mobile applications while s
 ## Github
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Atikrg&theme=default" height="150"/>
 </p>
 
 ---
 ## Pinned Projects
-
+<center>
 <table>
   <tr>
     <td width="33%">
@@ -128,6 +128,8 @@ I’m a developer focused on building modern web and mobile applications while s
     </td>
   </tr>
 </table>
+
+</center>
 ---
 
 <p align="center">
@@ -138,9 +140,5 @@ Let’s connect.
 <p align="center">
   <a href="https://atikrangnekar.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  
-  <a href="mailto:atikrangnekar28@gmail.com">
-    <img src="https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
