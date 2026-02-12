@@ -18,10 +18,10 @@ Building scalable products from idea → production
 
 I work with founders and early-stage startups to build production-ready web and mobile applications.
 
-- Ship fast without breaking scalability  
-- Strong backend architecture & clean system design  
-- DevOps-ready deployments (Docker, AWS, CI/CD)  
-- AI-powered feature integration  
+- Ship fast without breaking scalability
+- Strong backend architecture & clean system design
+- DevOps-ready deployments (Docker, AWS, CI/CD)
+- AI-powered feature integration
 
 Available for freelance & early-stage product builds.
 
@@ -29,32 +29,31 @@ Available for freelance & early-stage product builds.
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<p align="">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/AI-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub
+## Github
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="150"/>
@@ -63,53 +62,71 @@ Available for freelance & early-stage product builds.
 
 ---
 
-## 🚀 Selected Work
+## Pinned Projects
 
 <table>
 <tr>
 <td width="33%">
 
-**TaskFlow**  
+**TaskFlow**
+
 Project management tool with real-time updates  
 `React` `Node` `PostgreSQL`
 
+<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+
 </td>
 <td width="33%">
 
-**HealthTrack**  
+**HealthTrack**
+
 Fitness analytics dashboard for trainers  
 `Next.js` `MongoDB`
 
+<span align="center" style="display: inline-block; background: #FFA500; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">IN PROGRESS</span>
+
 </td>
 <td width="33%">
 
-**StoreConnect**  
+**StoreConnect**
+
 Inventory system for retail chains  
 `React Native` `Express`
 
+<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+
 </td>
 </tr>
 
 <tr>
 <td width="33%">
 
-**Insightly**  
+**Insightly**
+
 AI-powered customer sentiment analysis  
 `Python` `TensorFlow`
 
+<span align="center" style="display: inline-block; background: #FFA500; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">IN PROGRESS</span>
+
 </td>
 <td width="33%">
 
-**DevDeck**  
+**DevDeck**
+
 Internal developer platform with CI/CD  
 `Node` `Docker` `AWS`
 
+<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+
 </td>
 <td width="33%">
 
-**EcoDash**  
+**EcoDash**
+
 Real-time energy monitoring for smart buildings  
 `Next.js` `PostgreSQL`
+
+<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
 
 </td>
 </tr>
@@ -117,23 +134,32 @@ Real-time energy monitoring for smart buildings
 <tr>
 <td width="33%">
 
-**MediFlow**  
+**MediFlow**
+
 Patient intake & records management  
 `React` `MySQL`
 
+<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+
 </td>
 <td width="33%">
 
-**Finwise**  
+**Finwise**
+
 Personal finance aggregator  
 `Node` `MongoDB`
 
+<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+
 </td>
 <td width="33%">
 
-**LearnSpace**  
+**LearnSpace**
+
 Interactive coding platform  
 `Next.js` `Express`
+
+<span align="center" style="display: inline-block; background: #FFA500; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">IN PROGRESS</span>
 
 </td>
 </tr>
