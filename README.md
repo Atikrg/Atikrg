@@ -11,7 +11,7 @@ Building scalable products from idea → production
 
 <p align="center">
 
-<a href="https://linkedin.com/in/atikrangnekar" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+<a href="https://linkedin.com/in/atik-rangnekar" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
 <a href="https://leetcode.com/atikrangnekar" target="_blank" rel="noopener noreferrer">LeetCode</a> •
 <a href="mailto:atikrangnekar28@gmail.com">Email</a>
 
@@ -60,96 +60,74 @@ I’m a developer focused on building modern web and mobile applications while s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Atikrg&theme=default" height="150"/>
 </p>
 
 ---
-
 ## Pinned Projects
 
 <table>
-<tr>
-<td width="33%">
-
-<b>TaskFlow</b><br/>
-Project management platform<br/>
-<sub>React · Node · PostgreSQL</sub><br/>
-<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
-
-</td>
-<td width="33%">
-
-<b>HealthTrack</b><br/>
-Fitness analytics dashboard<br/>
-<sub>Next.js · MongoDB</sub><br/>
-<span style="background:#f39c12;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">IN DEV</span>
-
-</td>
-<td width="33%">
-
-<b>StoreConnect</b><br/>
-Retail inventory system<br/>
-<sub>React Native · Express</sub><br/>
-<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%">
-
-<b>Insightly</b><br/>
-AI sentiment engine<br/>
-<sub>Python · TensorFlow</sub><br/>
-<span style="background:#f39c12;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">IN DEV</span>
-
-</td>
-<td width="33%">
-
-<b>DevDeck</b><br/>
-Developer platform & CI/CD<br/>
-<sub>Node · Docker · AWS</sub><br/>
-<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
-
-</td>
-<td width="33%">
-
-<b>EcoDash</b><br/>
-Energy monitoring system<br/>
-<sub>Next.js · PostgreSQL</sub><br/>
-<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%">
-
-<b>MediFlow</b><br/>
-Healthcare records system<br/>
-<sub>React · MySQL</sub><br/>
-<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
-
-</td>
-<td width="33%">
-
-<b>Finwise</b><br/>
-Finance aggregation platform<br/>
-<sub>Node · MongoDB</sub><br/>
-<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
-
-</td>
-<td width="33%">
-
-<b>LearnSpace</b><br/>
-Online coding platform<br/>
-<sub>Next.js · Express</sub><br/>
-<span style="background:#f39c12;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">IN DEV</span>
-
-</td>
-</tr>
+  <tr>
+    <td width="33%">
+      <b>TaskFlow</b><br/>
+      Project management platform<br/>
+      <sub>React · Node · PostgreSQL</sub><br/>
+      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
+    </td>
+    <td width="33%">
+      <b>HealthTrack</b><br/>
+      Fitness analytics dashboard<br/>
+      <sub>Next.js · MongoDB</sub><br/>
+      <img src="https://img.shields.io/badge/status-in%20dev-yellow" alt="In Development">
+    </td>
+    <td width="33%">
+      <b>StoreConnect</b><br/>
+      Retail inventory system<br/>
+      <sub>React Native · Express</sub><br/>
+      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <b>Insightly</b><br/>
+      AI sentiment engine<br/>
+      <sub>Python · TensorFlow</sub><br/>
+      <img src="https://img.shields.io/badge/status-in%20dev-yellow" alt="In Development">
+    </td>
+    <td width="33%">
+      <b>DevDeck</b><br/>
+      Developer platform & CI/CD<br/>
+      <sub>Node · Docker · AWS</sub><br/>
+      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
+    </td>
+    <td width="33%">
+      <b>EcoDash</b><br/>
+      Energy monitoring system<br/>
+      <sub>Next.js · PostgreSQL</sub><br/>
+      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <b>MediFlow</b><br/>
+      Healthcare records system<br/>
+      <sub>React · MySQL</sub><br/>
+      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
+    </td>
+    <td width="33%">
+      <b>Finwise</b><br/>
+      Finance aggregation platform<br/>
+      <sub>Node · MongoDB</sub><br/>
+      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
+    </td>
+    <td width="33%">
+      <b>LearnSpace</b><br/>
+      Online coding platform<br/>
+      <sub>Next.js · Express</sub><br/>
+      <img src="https://img.shields.io/badge/status-in%20dev-yellow" alt="In Development">
+    </td>
+  </tr>
 </table>
-
 ---
 
 <p align="center">
@@ -158,7 +136,11 @@ Let’s connect.
 </p>
 
 <p align="center">
-<a href="https://yourportfolio.com/contact" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/💼-Hire%20Me-0077B5?style=for-the-badge&logo=handshake&logoColor=white&labelColor=005c99&color=0077B5" alt="Hire Me"/>
-</a>
+  <a href="https://atikrangnekar.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  
+  <a href="mailto:atikrangnekar28@gmail.com">
+    <img src="https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
