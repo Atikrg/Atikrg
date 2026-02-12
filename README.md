@@ -59,7 +59,8 @@ I’m a developer focused on building modern web and mobile applications while s
 ## Github
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atikrg&theme=default" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Atikrg&theme=ocean-gradient" height="150"/>
+
 </p>
 
 ---
