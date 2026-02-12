@@ -6,24 +6,27 @@ Building scalable products from idea → production
 </p>
 
 <p align="center">
-<a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">Portfolio</a> • 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank" rel="noopener noreferrer">LeetCode</a> • 
+  <a href="https://atikrangnekar.vercel.app">atikrangnekar.vercel.app</a>
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/atikrangnekar" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+<a href="https://leetcode.com/atikrangnekar" target="_blank" rel="noopener noreferrer">LeetCode</a> •
 <a href="mailto:atikrangnekar28@gmail.com">Email</a>
+
 </p>
 
 ---
 
-## 👋 About
+# 👋 About Me
 
-I work with founders and early-stage startups to build production-ready web and mobile applications.
+I’m a developer focused on building modern web and mobile applications while sharpening my backend and deployment skills.
 
-- Ship fast without breaking scalability
-- Strong backend architecture & clean system design
-- DevOps-ready deployments (Docker, AWS, CI/CD)
-- AI-powered feature integration
-
-Available for freelance & early-stage product builds.
+- Building projects to strengthen scalable architecture knowledge
+- Practicing clean code & structured system design
+- Learning Docker, AWS & CI/CD workflows
+- Exploring AI feature integration
 
 ---
 
@@ -68,32 +71,26 @@ Available for freelance & early-stage product builds.
 <tr>
 <td width="33%">
 
-**TaskFlow**
-
-Project management tool with real-time updates  
-`React` `Node` `PostgreSQL`
-
-<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+<b>TaskFlow</b><br/>
+Project management platform<br/>
+<sub>React · Node · PostgreSQL</sub><br/>
+<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
 
 </td>
 <td width="33%">
 
-**HealthTrack**
-
-Fitness analytics dashboard for trainers  
-`Next.js` `MongoDB`
-
-<span align="center" style="display: inline-block; background: #FFA500; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">IN PROGRESS</span>
+<b>HealthTrack</b><br/>
+Fitness analytics dashboard<br/>
+<sub>Next.js · MongoDB</sub><br/>
+<span style="background:#f39c12;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">IN DEV</span>
 
 </td>
 <td width="33%">
 
-**StoreConnect**
-
-Inventory system for retail chains  
-`React Native` `Express`
-
-<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+<b>StoreConnect</b><br/>
+Retail inventory system<br/>
+<sub>React Native · Express</sub><br/>
+<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
 
 </td>
 </tr>
@@ -101,32 +98,26 @@ Inventory system for retail chains
 <tr>
 <td width="33%">
 
-**Insightly**
-
-AI-powered customer sentiment analysis  
-`Python` `TensorFlow`
-
-<span align="center" style="display: inline-block; background: #FFA500; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">IN PROGRESS</span>
+<b>Insightly</b><br/>
+AI sentiment engine<br/>
+<sub>Python · TensorFlow</sub><br/>
+<span style="background:#f39c12;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">IN DEV</span>
 
 </td>
 <td width="33%">
 
-**DevDeck**
-
-Internal developer platform with CI/CD  
-`Node` `Docker` `AWS`
-
-<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+<b>DevDeck</b><br/>
+Developer platform & CI/CD<br/>
+<sub>Node · Docker · AWS</sub><br/>
+<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
 
 </td>
 <td width="33%">
 
-**EcoDash**
-
-Real-time energy monitoring for smart buildings  
-`Next.js` `PostgreSQL`
-
-<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+<b>EcoDash</b><br/>
+Energy monitoring system<br/>
+<sub>Next.js · PostgreSQL</sub><br/>
+<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
 
 </td>
 </tr>
@@ -134,32 +125,26 @@ Real-time energy monitoring for smart buildings
 <tr>
 <td width="33%">
 
-**MediFlow**
-
-Patient intake & records management  
-`React` `MySQL`
-
-<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+<b>MediFlow</b><br/>
+Healthcare records system<br/>
+<sub>React · MySQL</sub><br/>
+<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
 
 </td>
 <td width="33%">
 
-**Finwise**
-
-Personal finance aggregator  
-`Node` `MongoDB`
-
-<span align="center" style="display: inline-block; background: #2ea44f; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">COMPLETED</span>
+<b>Finwise</b><br/>
+Finance aggregation platform<br/>
+<sub>Node · MongoDB</sub><br/>
+<span style="background:#2ea44f;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">LIVE</span>
 
 </td>
 <td width="33%">
 
-**LearnSpace**
-
-Interactive coding platform  
-`Next.js` `Express`
-
-<span align="center" style="display: inline-block; background: #FFA500; color: white; padding: 1px 2px; border-radius: 2px; font-size: 11px; font-weight: 600;">IN PROGRESS</span>
+<b>LearnSpace</b><br/>
+Online coding platform<br/>
+<sub>Next.js · Express</sub><br/>
+<span style="background:#f39c12;color:#fff;padding:2px 6px;border-radius:12px;font-size:10px;font-weight:600;">IN DEV</span>
 
 </td>
 </tr>
