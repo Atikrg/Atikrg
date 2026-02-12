@@ -19,45 +19,44 @@
 </p>
 
 ---
-
 # 📌 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-one&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-one&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-two&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-two&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-three&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-three&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-four&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-four&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-five">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-five&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-five&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-six">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-six&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-six&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-seven">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-seven&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-seven&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-eight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-eight&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-eight&theme=default&border_color=E4E2E2" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-nine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-nine&theme=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-nine&theme=default&border_color=E4E2E2" />
 </a>
 
 </p>
