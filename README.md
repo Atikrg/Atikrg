@@ -17,7 +17,6 @@ atikrangnekar28@gmail.com
 
 </p>
 
-
 ---
 
 # 👋 About Me
@@ -64,9 +63,10 @@ I’m a developer focused on building modern web and mobile applications while s
 </p>
 
 ---
+
 ## Pinned Projects
-<center>
-<table>
+
+<table align="center" style="margin: 0 auto; text-align: center;">
   <tr>
     <td width="33%">
       <b>TaskFlow</b><br/>
@@ -87,6 +87,7 @@ I’m a developer focused on building modern web and mobile applications while s
       <img src="https://img.shields.io/badge/status-live-success" alt="Live">
     </td>
   </tr>
+
   <tr>
     <td width="33%">
       <b>Insightly</b><br/>
@@ -107,6 +108,7 @@ I’m a developer focused on building modern web and mobile applications while s
       <img src="https://img.shields.io/badge/status-live-success" alt="Live">
     </td>
   </tr>
+
   <tr>
     <td width="33%">
       <b>MediFlow</b><br/>
@@ -129,7 +131,6 @@ I’m a developer focused on building modern web and mobile applications while s
   </tr>
 </table>
 
-</center>
 ---
 
 <p align="center">
