@@ -1,4 +1,3 @@
-display button - **Status:** 🟠 In Progress  
 <h1 align="center">Atik Rangnekar</h1>
 
 <p align="center">
@@ -7,9 +6,9 @@ Building scalable products from idea → production
 </p>
 
 <p align="center">
-<a href="https://yourportfolio.com">Portfolio</a> • 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> • 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">LeetCode</a> • 
+<a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">Portfolio</a> • 
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank" rel="noopener noreferrer">LeetCode</a> • 
 <a href="mailto:atikrangnekar28@gmail.com">Email</a>
 </p>
 
@@ -68,67 +67,73 @@ Available for freelance & early-stage product builds.
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### Product One  
-Brief description of what it does and the problem it solves.  
-
-**Tech:** React • Node • PostgreSQL  
-<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
+**TaskFlow**  
+Project management tool with real-time updates  
+`React` `Node` `PostgreSQL`
 
 </td>
+<td width="33%">
 
-<td width="50%">
-
-### Product Two  
-Short description focused on business impact or use-case.  
-
-**Tech:** Next.js • MongoDB  
-<img src="https://img.shields.io/badge/Status-In%20Progress-FFA500?style=for-the-badge&labelColor=FF8C00&color=FFA500" alt="In Progress"/>
+**HealthTrack**  
+Fitness analytics dashboard for trainers  
+`Next.js` `MongoDB`
 
 </td>
-</tr>
+<td width="33%">
 
-<tr>
-<td width="50%">
-
-### Product Three  
-Mobile or SaaS application built for scalability.  
-
-**Tech:** React Native • Express  
-<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
-
-</td>
-
-<td width="50%">
-
-### Product Four  
-Internal tool / dashboard / automation system.  
-
-**Tech:** Node • MySQL  
-<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
+**StoreConnect**  
+Inventory system for retail chains  
+`React Native` `Express`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%">
 
-### Product Five  
-AI-enabled feature or analytics-based system.  
-
-**Tech:** Python • AI Integration  
-<img src="https://img.shields.io/badge/Status-In%20Progress-FFA500?style=for-the-badge&labelColor=FF8C00&color=FFA500" alt="In Progress"/>
+**Insightly**  
+AI-powered customer sentiment analysis  
+`Python` `TensorFlow`
 
 </td>
+<td width="33%">
 
-<td width="50%">
+**DevDeck**  
+Internal developer platform with CI/CD  
+`Node` `Docker` `AWS`
 
-### Product Six  
-Full-stack product built from scratch to deployment.  
+</td>
+<td width="33%">
 
-**Tech:** Next.js • AWS • Docker  
-<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
+**EcoDash**  
+Real-time energy monitoring for smart buildings  
+`Next.js` `PostgreSQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+**MediFlow**  
+Patient intake & records management  
+`React` `MySQL`
+
+</td>
+<td width="33%">
+
+**Finwise**  
+Personal finance aggregator  
+`Node` `MongoDB`
+
+</td>
+<td width="33%">
+
+**LearnSpace**  
+Interactive coding platform  
+`Next.js` `Express`
 
 </td>
 </tr>
@@ -142,7 +147,7 @@ Let’s connect.
 </p>
 
 <p align="center">
-<a href="https://yourportfolio.com/contact">
+<a href="https://yourportfolio.com/contact" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/💼-Hire%20Me-0077B5?style=for-the-badge&logo=handshake&logoColor=white&labelColor=005c99&color=0077B5" alt="Hire Me"/>
 </a>
 </p>
