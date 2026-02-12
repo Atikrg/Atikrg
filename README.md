@@ -19,45 +19,24 @@
 </p>
 
 ---
-
-# 📌 Featured Projects
+# 📌 Pinned Projects
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-one" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-one&theme=default&border_color=E4E2E2" />
+<a href="https://github.com/atikrangnekar/repo-name-1" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikrangnekar&repo=repo-name-1&theme=default" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-two" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-two&theme=default&border_color=E4E2E2" />
+<a href="https://github.com/atikrangnekar/repo-name-2" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikrangnekar&repo=repo-name-2&theme=default" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-three" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-three&theme=default&border_color=E4E2E2" />
+<a href="https://github.com/atikrangnekar/repo-name-3" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikrangnekar&repo=repo-name-3&theme=default" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-four" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-four&theme=default&border_color=E4E2E2" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-five" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-five&theme=default&border_color=E4E2E2" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-six" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-six&theme=default&border_color=E4E2E2" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-seven" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-seven&theme=default&border_color=E4E2E2" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-eight" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-eight&theme=default&border_color=E4E2E2" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-nine" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-nine&theme=default&border_color=E4E2E2" />
+<a href="https://github.com/atikrangnekar/repo-name-4" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikrangnekar&repo=repo-name-4&theme=default" />
 </a>
 
 </p>
