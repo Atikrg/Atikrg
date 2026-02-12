@@ -35,14 +35,14 @@ I turn ideas into clean, production-ready products.
 
 ## 📊 GitHub Stats
 
-### 🔥 Current Streak
+### 🔥 Current & Longest Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
 
-### 📈 Overall Stats
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
-### 🏆 Longest Streak
-*(Automatically shown in streak stats above)*
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ---
 
@@ -60,16 +60,16 @@ I turn ideas into clean, production-ready products.
 | 🚀 Project 8 | Short description here | Full Stack |
 | 🚀 Project 9 | Short description here | Mobile App |
 
-*(Replace with your actual repositories and descriptions.)*
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **atikrangnekar28@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- 🧠 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/
 
 ---
 
-## 📬 Contact Me
+## 💡 Let’s Build Something Great
 
-📧 Email: **atikrangnekar28@gmail.com**
-
----
-
-## 💡 Let's Build Something Great
-
-If you're looking for a developer who ships fast and builds clean — let's connect.
+If you're looking for someone who ships clean and scalable code — let’s talk.
