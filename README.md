@@ -1,3 +1,4 @@
+display button - **Status:** 🟠 In Progress  
 <h1 align="center">Atik Rangnekar</h1>
 
 <p align="center">
@@ -56,7 +57,7 @@ Available for freelance & early-stage product builds.
 Brief description of what it does and the problem it solves.  
 
 **Tech:** React • Node • PostgreSQL  
-**Status:** 🟢 Completed  
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
 
 </td>
 
@@ -66,7 +67,7 @@ Brief description of what it does and the problem it solves.
 Short description focused on business impact or use-case.  
 
 **Tech:** Next.js • MongoDB  
-**Status:** 🟠 In Progress  
+<img src="https://img.shields.io/badge/Status-In%20Progress-FFA500?style=for-the-badge&labelColor=FF8C00&color=FFA500" alt="In Progress"/>
 
 </td>
 </tr>
@@ -78,7 +79,7 @@ Short description focused on business impact or use-case.
 Mobile or SaaS application built for scalability.  
 
 **Tech:** React Native • Express  
-**Status:** 🟢 Completed  
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
 
 </td>
 
@@ -88,7 +89,7 @@ Mobile or SaaS application built for scalability.
 Internal tool / dashboard / automation system.  
 
 **Tech:** Node • MySQL  
-**Status:** 🟢 Completed  
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
 
 </td>
 </tr>
@@ -100,7 +101,7 @@ Internal tool / dashboard / automation system.
 AI-enabled feature or analytics-based system.  
 
 **Tech:** Python • AI Integration  
-**Status:** 🟠 In Progress  
+<img src="https://img.shields.io/badge/Status-In%20Progress-FFA500?style=for-the-badge&labelColor=FF8C00&color=FFA500" alt="In Progress"/>
 
 </td>
 
@@ -110,7 +111,7 @@ AI-enabled feature or analytics-based system.
 Full-stack product built from scratch to deployment.  
 
 **Tech:** Next.js • AWS • Docker  
-**Status:** 🟢 Completed  
+<img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge&labelColor=228B22&color=2ea44f" alt="Completed"/>
 
 </td>
 </tr>
@@ -121,4 +122,10 @@ Full-stack product built from scratch to deployment.
 <p align="center">
 <strong>Interested in building something ambitious?</strong><br/>
 Let’s connect.
+</p>
+
+<p align="center">
+<a href="https://yourportfolio.com/contact">
+  <img src="https://img.shields.io/badge/💼-Hire%20Me-0077B5?style=for-the-badge&logo=handshake&logoColor=white&labelColor=005c99&color=0077B5" alt="Hire Me"/>
+</a>
 </p>
