@@ -1,4 +1,4 @@
-display button - **Status:** 🟠 In Progress  
+
 <h1 align="center">Atik Rangnekar</h1>
 
 <p align="center">
