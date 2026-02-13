@@ -1,4 +1,4 @@
-<h1 align="center">Atik Rangnekar</h1>
+<h1 align="center">Atik S. Rangnekar</h1>
 
 <p align="center">
 Full Stack Developer • DevOps • AI Integration <br/>
@@ -65,74 +65,6 @@ I’m a developer focused on building modern web and mobile applications while s
 
 ---
 
-## Pinned Projects
-
-<table align="center" style="margin: 0 auto; text-align: center;">
-  <tr>
-    <td width="33%">
-      <b>TaskFlow</b><br/>
-      Project management platform<br/>
-      <sub>React · Node · PostgreSQL</sub><br/>
-      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
-    </td>
-    <td width="33%">
-      <b>HealthTrack</b><br/>
-      Fitness analytics dashboard<br/>
-      <sub>Next.js · MongoDB</sub><br/>
-      <img src="https://img.shields.io/badge/status-in%20dev-yellow" alt="In Development">
-    </td>
-    <td width="33%">
-      <b>StoreConnect</b><br/>
-      Retail inventory system<br/>
-      <sub>React Native · Express</sub><br/>
-      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%">
-      <b>Insightly</b><br/>
-      AI sentiment engine<br/>
-      <sub>Python · TensorFlow</sub><br/>
-      <img src="https://img.shields.io/badge/status-in%20dev-yellow" alt="In Development">
-    </td>
-    <td width="33%">
-      <b>DevDeck</b><br/>
-      Developer platform & CI/CD<br/>
-      <sub>Node · Docker · AWS</sub><br/>
-      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
-    </td>
-    <td width="33%">
-      <b>EcoDash</b><br/>
-      Energy monitoring system<br/>
-      <sub>Next.js · PostgreSQL</sub><br/>
-      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%">
-      <b>MediFlow</b><br/>
-      Healthcare records system<br/>
-      <sub>React · MySQL</sub><br/>
-      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
-    </td>
-    <td width="33%">
-      <b>Finwise</b><br/>
-      Finance aggregation platform<br/>
-      <sub>Node · MongoDB</sub><br/>
-      <img src="https://img.shields.io/badge/status-live-success" alt="Live">
-    </td>
-    <td width="33%">
-      <b>LearnSpace</b><br/>
-      Online coding platform<br/>
-      <sub>Next.js · Express</sub><br/>
-      <img src="https://img.shields.io/badge/status-in%20dev-yellow" alt="In Development">
-    </td>
-  </tr>
-</table>
-
----
 
 <p align="center">
 <strong>Interested in building something ambitious?</strong><br/>
