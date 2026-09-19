@@ -85,8 +85,8 @@ Let’s connect.
 
 
 
--->\
+-->
 
 
+<img width="2000" height="2300" alt="image" src="https://github.com/user-attachments/assets/b0be08b7-1a83-47c8-8838-502c2678ac1d" />
 
-<img width="2000" height="1786" alt="image" src="https://github.com/user-attachments/assets/f5ba95cf-6a97-4dea-bee2-f6f34b938725" />
