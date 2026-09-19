@@ -88,5 +88,6 @@ Let’s connect.
 -->
 
 
-<img width="2000" height="2300" alt="image" src="https://github.com/user-attachments/assets/b0be08b7-1a83-47c8-8838-502c2678ac1d" />
+<img width="2000" height="2384" alt="image" src="https://github.com/user-attachments/assets/64459f25-3f4c-406a-8c32-ad279ec9666a" />
+
 
