@@ -1,4 +1,4 @@
-<h1 align="center">Atik S. Rangnekar</h1>
+<!-- <h1 align="center">Atik S. Rangnekar</h1>
 
 <p align="center">
 Full Stack Developer • DevOps • AI Integration <br/>
@@ -75,4 +75,18 @@ Let’s connect.
   <a href="https://atikrangnekar.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</p> -->
+
+
+
+
+<!--
+
+
+
+
+-->\
+
+
+
+<img width="2000" height="1786" alt="image" src="https://github.com/user-attachments/assets/f5ba95cf-6a97-4dea-bee2-f6f34b938725" />
